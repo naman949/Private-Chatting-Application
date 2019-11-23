@@ -22,6 +22,12 @@ Here the first input is the username you want to register with, second input the
 
 
 Mode can take values 0, 1 or 2
+
+
 in mode 0, there is no encryption and no signature
+
+
 in mode 1, there is encryption but no signature
+
+
 in mode 2, there is encryption and signature
