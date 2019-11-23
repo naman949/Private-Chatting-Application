@@ -1,7 +1,7 @@
 # Private Chatting Application 
 
 
-## To run the server application, run the following commands in your command prompt
+### To run the server application, run the following commands in your command prompt
 
 
 *javac Server.java*
@@ -9,7 +9,7 @@
 
 *java Server*
 
-## To run the Client Application, run the following commands in the command prompt
+### To run the Client Application, run the following commands in the command prompt
 
 
 *javac Client.java*
