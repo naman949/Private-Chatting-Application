@@ -31,3 +31,9 @@ in mode 1, there is encryption but no signature
 
 
 in mode 2, there is encryption and signature
+
+
+The clients can send messages in the following format
+
+
+*@[recipient name]* *[message]*
